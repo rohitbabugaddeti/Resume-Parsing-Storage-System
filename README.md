@@ -1,6 +1,7 @@
-# Node.js Resume parser
+# Node.js Resume parser 
 
 Authored by Lizurchik Alexey, extended to work with express by Nick Satija
+added accessing parsed data and storing it in database.(currently it'll save accessed data as a file but will be updated to store data into firebase or similar kind of thing)
 
 # The Problem
 
