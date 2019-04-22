@@ -247,6 +247,3 @@ Dependencies are:
 - [request](https://github.com/request/request)
 - [textract](https://github.com/dbashford/textract)
 - [underscore](https://github.com/jashkenas/underscore)
-    
-# In action
-![In action](/docs/result.png?raw=true "In action")
