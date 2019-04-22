@@ -36,13 +36,13 @@ Current solution tested on Windows 7 x64 Maximum (with [babun shell](http://babu
 
 Project is nodejs cli application with some dependencies. If you already have installed copy of nodejs, you can just clone this repo and run `npm install`:
 
-	git clone git@github.com:likerRr/code4goal-resume-parser.git
+	git clone git@github.com:rohitbabugaddeti/Resume-Parsing-Storage-System.git
 	npm install
 	
 # Step-by-step fresh installation
 
  - First, go to [nodejs](http://nodejs.org/) site, download and setup it for you platform
- - Then, clone this repo `git clone git@github.com:likerRr/code4goal-resume-parser.git`
+ - Then, clone this repo `git clone git@github.com:rohitbabugaddeti/Resume-Parsing-Storage-System.git`
  - Run `npm install` in terminal from root folder of project to setup dependencies
  - At this moment application will work fine, but! By default it supports only `.TXT` and `.HTML` text formats. For better performance you should install at least support of `.PDF` (and `.DOC`). Here is instructions, how to do it from [textract README](https://github.com/dbashford/textract#requirements) file:
 	 - `PDF` extraction requires `pdftotext` be installed, [link](http://www.foolabs.com/xpdf/download.html)
